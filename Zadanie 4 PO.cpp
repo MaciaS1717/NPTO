@@ -69,6 +69,7 @@ int Stos::top ()
 
 bool Stos::empty () 
 { 
+    cout<<"STOS PUSTY";
     return wierzch == -1; 
 }
 
